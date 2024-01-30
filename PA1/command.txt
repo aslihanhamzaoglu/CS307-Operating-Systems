@@ -1,0 +1,1 @@
+man df | grep -A 1 '\-a' > output.txt
